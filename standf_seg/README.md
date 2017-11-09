@@ -4,4 +4,5 @@
 
 ## Output
 
-> segmented.file
+![](https://i.imgur.com/xNIreF5.png)
+
