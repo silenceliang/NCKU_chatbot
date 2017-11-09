@@ -1,6 +1,7 @@
 ## Input
 
-my_txt
+> my_txt
 
 ## Output
 
+> segmented.file
