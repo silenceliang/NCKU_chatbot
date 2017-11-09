@@ -1,4 +1,3 @@
-# NCKU_chatbot
 
 ## Input
 
